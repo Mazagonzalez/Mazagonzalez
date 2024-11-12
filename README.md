@@ -15,3 +15,17 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazagonzalez61@gmail.com)
   
 </div>
+
+#### A little more about me
+```javascript
+const aboutMe = {
+  age: 21,
+  country: "Colombia",
+  yearsOfExperience: 2,
+  technologies: {
+    frontend: ["HTML", "CSS", "TailwindCSS", "React JS"],
+    backend: ["Laravel", "JavaScript", "Node JS"],
+  },
+  likes: ["eating", "video games", "space", "reading", "a good cup of coffee"]
+};
+```
