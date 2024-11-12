@@ -17,7 +17,7 @@
 </div>
 
 #### A little more about me
-```laravel
+```php
 $aboutMe = [
     'age' => 21,
     'country' => 'Colombia',
