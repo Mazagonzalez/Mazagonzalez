@@ -7,8 +7,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=999&width=435&lines=Per+Aspera+Ad+Astra+%E2%9C%A8%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
-<br>
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
