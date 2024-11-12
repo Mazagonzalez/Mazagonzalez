@@ -16,16 +16,9 @@
   
 </div>
 
-#### A little more about me
-```python
-$aboutMe = [
-    'age' => 21,
-    'country' => 'Colombia',
-    'yearsOfExperience' => 2,
-    'technologies' => [
-        'frontend' => ['HTML', 'CSS', 'TailwindCSS', 'React JS'],
-        'backend' => ['Laravel', 'JavaScript', 'Node JS'],
-    ],
-    'likes' => ['eating', 'video games', 'space', 'reading', 'a good cup of coffee']
-];
-```
+### Things I Enjoy
+- 🍔 Eating
+- 🎮 Video games
+- 🌌 Space
+- 📚 Reading
+- ☕ A good cup of coffee
