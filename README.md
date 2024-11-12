@@ -23,6 +23,8 @@
 - 🌍 Exploring new places
 - ☕ A good cup of coffee
 
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 ---
 
 Thanks for visiting my profile! I'm always eager to learn and grow in the world of tech. 🚀
