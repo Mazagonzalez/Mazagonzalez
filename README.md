@@ -13,6 +13,23 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosmaza_17/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazagonzalez61@gmail.com)
 
+<br>
+
+#### A little more about me
+```javascript
+const AboutMe = {
+  age: 21,
+  "yearsOfExperience": 2,
+  technologies: {
+      frontend: ["HTML", "CSS", "TailwindCSS", "Bootstrap", "ReactJS", "Astro"],
+      backend: ["Laravel", "JavaScript", "Node JS"],
+      Tools: ["Sublime Merge", "GIT", "Github"]
+  }
+}
+```
+
+<br>
+
 ### Things I Enjoy
 
 <table>
