@@ -14,15 +14,11 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosmaza_17/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazagonzalez61@gmail.com)
   
-</div>
-
 ### Things I Enjoy
-<div aling="center" style="display: flex; flex-direction: column;">
-<p>- 🍔 Eating</p>
-<p>- 🎮 Video games</p>
+- 🍔 Eating
+- 🎮 Video games
 - 🌌 Space
 - 📚 Reading
 - ☕ A good cup of coffee
-</div>
 
 Thanks for visiting my profile! I'm always eager to learn and grow in the world of tech. 🚀
