@@ -19,6 +19,10 @@
 - 🎮 Video games
 - 🌌 Space
 - 📚 Reading
+- 📺 Watching series
+- 🌍 Exploring new places
 - ☕ A good cup of coffee
+
+---
 
 Thanks for visiting my profile! I'm always eager to learn and grow in the world of tech. 🚀
