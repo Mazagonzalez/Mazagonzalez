@@ -17,8 +17,12 @@
 </div>
 
 ### Things I Enjoy
+<div aling="center">
 - 🍔 Eating
 - 🎮 Video games
 - 🌌 Space
 - 📚 Reading
 - ☕ A good cup of coffee
+</div>
+
+Thanks for visiting my profile! I'm always eager to learn and grow in the world of tech. 🚀
