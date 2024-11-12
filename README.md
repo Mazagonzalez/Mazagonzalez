@@ -14,18 +14,23 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazagonzalez61@gmail.com)
 
 ### Things I Enjoy
-<div style="display: flex;">
-  <div>
-    - 🍔 Eating
-    - 🎮 Video games
-    - 🌌 Space
-    - 📚 Reading
-    - 📺 Watching series
-    - 🌍 Exploring new places
-    - ☕ A good cup of coffee
-  </div>
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-</div>
+
+<table>
+  <tr>
+    <td>
+      - 🍔 Eating<br>
+      - 🎮 Video games<br>
+      - 🌌 Space<br>
+      - 📚 Reading<br>
+      - 📺 Watching series<br>
+      - 🌍 Exploring new places<br>
+      - ☕ A good cup of coffee
+    </td>
+    <td>
+      <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+    </td>
+  </tr>
+</table>
 
 ---
 
