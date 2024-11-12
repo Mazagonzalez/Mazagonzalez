@@ -17,9 +17,9 @@
 </div>
 
 ### Things I Enjoy
-<div aling="center">
-- 🍔 Eating
-- 🎮 Video games
+<div aling="center" style="display: flex; flex-direction: column;">
+<p>- 🍔 Eating</p>
+<p>- 🎮 Video games</p>
 - 🌌 Space
 - 📚 Reading
 - ☕ A good cup of coffee
