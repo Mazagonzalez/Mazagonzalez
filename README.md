@@ -15,12 +15,12 @@
 </div>
 
 <br>
-
+---
 ### A little more about me
 ```javascript
 const AboutMe = {
   age: 21,
-  "yearsOfExperience": 2,
+  yearsOfExperience: 2,
   technologies: {
       frontend: ["HTML", "CSS", "TailwindCSS", "Bootstrap", "ReactJS", "Astro"],
       backend: ["Laravel", "JavaScript", "Node JS"],
@@ -28,29 +28,27 @@ const AboutMe = {
   }
 }
 ```
-
+---
 <br>
 
-<h3 align="center">Things I Enjoy</h3>
+### Things I Enjoy
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        - 🍔 Eating<br>
-        - 🎮 Video games<br>
-        - 🌌 Space<br>
-        - 📚 Reading<br>
-        - 📺 Watching series<br>
-        - 🌍 Exploring new places<br>
-        - ☕ A good cup of coffee
-      </td>
-      <td>
-        <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td>
+      - 🍔 Eating<br>
+      - 🎮 Video games<br>
+      - 🌌 Space<br>
+      - 📚 Reading<br>
+      - 📺 Watching series<br>
+      - 🌍 Exploring new places<br>
+      - ☕ A good cup of coffee
+    </td>
+    <td>
+      <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+    </td>
+  </tr>
+</table>
 
 ---
 
