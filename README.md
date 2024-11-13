@@ -16,6 +16,7 @@
 
 <br>
 ---
+
 ### A little more about me
 ```javascript
 const AboutMe = {
@@ -28,6 +29,7 @@ const AboutMe = {
   }
 }
 ```
+
 ---
 <br>
 
