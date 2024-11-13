@@ -31,7 +31,6 @@ const AboutMe = {
 }
 ```
 
----
 <br>
 
 ### Things I Enjoy
