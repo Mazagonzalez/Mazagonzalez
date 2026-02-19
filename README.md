@@ -30,7 +30,7 @@
 ```javascript
 const AboutMe = {
   age: 21,
-  yearsOfExperience: 2,
+  yearsOfExperience: 3,
   technologies: {
       frontend: ["HTML", "CSS", "TailwindCSS", "Bootstrap", "ReactJS", "Astro"],
       backend: ["Laravel", "JavaScript", "Node JS"],
