@@ -1,84 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:7c3aed&height=160&section=header&text=Carlos%20Maza&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=18" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/header-light.svg" />
+  <img alt="Carlos Maza — Frontend Developer" src="images/header-dark.svg" width="100%" />
+</picture>
 
-<div align="center">
+<p align="center">
+  <a href="https://amg-devel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-amg--devel.vercel.app-7c3aed?style=flat-square&labelColor=161b22&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/carlos-arturo-maza-gonzalez/"><img src="https://img.shields.io/badge/LinkedIn-Carlos%20Maza-7c3aed?style=flat-square&labelColor=161b22&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mazagonzalez61@gmail.com"><img src="https://img.shields.io/badge/Email-mazagonzalez61%40gmail.com-7c3aed?style=flat-square&labelColor=161b22&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/carlosmaza_17/"><img src="https://img.shields.io/badge/Instagram-%40carlosmaza__17-7c3aed?style=flat-square&labelColor=161b22&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+fast%2C+accessible+web+experiences;Astro+%C2%B7+React+%C2%B7+Tailwind+%C2%B7+Laravel;Per+Aspera+Ad+Astra+%E2%9C%A8%F0%9F%9A%80" alt="Typing SVG" /></a>
+<br />
 
-<br/>
+### `01` &nbsp;About
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://amg-devel.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-arturo-maza-gonzalez/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazagonzalez61@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosmaza_17/)
+I'm a self-taught frontend developer with **3+ years** turning ideas into interfaces that feel fast and look right. I sweat the details most people skip: semantic markup, keyboard and screen-reader support, spacing that lines up, and CSS that doesn't fight you six months later.
 
-</div>
+When the job needs it, I go full-stack: APIs and business logic in **Laravel** and **Node.js**.
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>◆ Interfaces</b><br />
+      <sub>Component-driven UIs with Astro, React and Tailwind, built responsive from the start.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>◆ Performance</b><br />
+      <sub>Light pages, little JS, good Core Web Vitals and SEO that works.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>◆ Accessibility</b><br />
+      <sub>Semantic HTML, focus states and contrast are part of the design, not a final checklist.</sub>
+    </td>
+  </tr>
+</table>
 
-## 👨‍💻 About me
+<br />
 
-I'm a self-taught **Frontend Developer** with **3+ years** of experience turning ideas into clean, performant and user-friendly interfaces. I care about the details: semantic markup, accessibility, responsive layouts and code that's easy to maintain.
+### `02` &nbsp;Stack
 
-- 🎨 **Frontend-first:** modern UIs with Astro, React and Tailwind
-- 🔧 **Full-stack capable:** APIs and business logic with Laravel and Node.js
-- ⚡ **Performance-minded:** fast, lightweight and SEO-friendly sites
-- 🌱 **Always learning** and looking for challenging projects to grow
+<p>
+  <img src="https://skillicons.dev/icons?i=astro,react,tailwind,sass,js,html,css&theme=dark" alt="Frontend: Astro, React, Tailwind, Sass, JavaScript, HTML, CSS" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,git,github,vscode,vercel&theme=dark" alt="Backend and tools: Laravel, PHP, Node.js, Git, GitHub, VS Code, Vercel" />
+</p>
 
----
+<br />
 
-## 🛠️ Tech stack
+### `03` &nbsp;Off the clock
 
-<div align="center">
+Video games, reading about space 🌌, a good series, new places to explore. Coffee ☕ always.
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,astro,react,tailwind,sass,bootstrap&theme=dark" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs&theme=dark" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
-<br/><br/>
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="images/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="images/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="images/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-</div>
-
----
-
-## 🎮 Beyond the code
-
-<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="150" />
-
-When I'm not coding, you'll probably find me playing video games, reading about space 🌌, catching up on a good series, or exploring new places 🌍, always with a good cup of coffee ☕.
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-**Thanks for stopping by!** If you like my work, feel free to explore my repos or reach out. 🚀
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e1b4b&height=100&section=footer" width="100%" />
+<p align="center">
+  <sub>Thanks for stopping by. Have a project in mind? <a href="mailto:mazagonzalez61@gmail.com">Let's talk</a>. ✦</sub>
+</p>
